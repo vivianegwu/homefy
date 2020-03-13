@@ -4533,8 +4533,8 @@ tbody.collapse.show {
 }
 
 .card-img {
-  width: 20%;
-/*  border-radius: calc(0.25rem - 1px);*/
+  width: 100%;
+  border-radius: calc(0.25rem - 1px);
 }
 
 .card-img-top {

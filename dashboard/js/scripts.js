@@ -17,8 +17,7 @@
 })(jQuery);
 
 
-const dropDown = document.querySelector("#dropDown");
-console.log(dropDown);
+
                      
      
   
